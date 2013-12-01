@@ -1,0 +1,80 @@
+body{
+	background: #888C8C;
+	min-height: 500px;
+	min-width: 1150px;
+
+}
+
+header div a {
+	display: inline-block;
+	text-decoration: none;
+	font-family: Arial;
+    font-size: 20px;
+	color: #888C8C;
+}
+
+header div img {
+	position: absolute;
+	left: -117px;
+	margin-top: -85px;
+}
+
+hr {
+	position: absolute;
+	width: 78%;
+	min-width: 920px;
+	left: 220px;
+	top: 160px;
+	border: 7px dashed #DB9A00;
+
+}
+
+
+#navbar {
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px #AD7100;
+	background: #333333;
+	text-align: right;
+	position: absolute;
+	min-width: 1050px;
+	height: 70px;
+	width: 85%;
+	left: 130px;
+	top: 32px;
+}
+
+#home {
+	margin-top: 21px;
+	margin-right: 140px;
+	position: relative;
+	padding: 3px;
+	border-left: 6px solid #AD7100;
+	border-top: 5px solid #AD7100;
+	border-radius: 5px;
+}
+
+#cbtis_logo {
+	position: relative;
+	top:25px;
+}
+
+#cbtis_facebook {
+	position: relative;
+	padding-left: 5px;
+	top: 21px;
+}
+
+.navbar_text {
+	margin-top: 21px;
+	margin-right: 140px;
+	position: relative;
+	padding: 3px;
+	border-left: 6px solid #DB9A00;
+	border-top: 5px solid #DB9A00;
+	border-radius: 5px;
+}
+
+.navbar_text:hover {
+	border-left: 6px solid #AD7100;
+	border-top: 5px solid #AD7100;
+}
