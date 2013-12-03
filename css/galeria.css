@@ -5,6 +5,15 @@ body{
 
 }
 
+body div {
+	text-align: center;
+	
+}
+
+ul {
+	list-style-type: none;
+}
+
 header div a {
 	display: inline-block;
 	text-decoration: none;
@@ -66,7 +75,7 @@ hr {
 
 .navbar_text {
 	margin-top: 21px;
-	margin-right: 140px;
+	margin-right: 110px;
 	position: relative;
 	padding: 3px;
 	border-left: 6px solid #DB9A00;
@@ -77,4 +86,17 @@ hr {
 .navbar_text:hover {
 	border-left: 6px solid #AD7100;
 	border-top: 5px solid #AD7100;
+}
+
+.img {
+	width: 700px;
+	margin-top: 40px;
+	border: 5px outset #AD7100;
+	border-radius:30px;
+
+	
+}
+
+#images {
+	margin-top: 200px;
 }

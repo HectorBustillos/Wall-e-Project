@@ -1,0 +1,26 @@
+body {
+	background: #888C8C
+}
+
+h1 {
+	font-family: arial;
+	font-size: 50px;
+}
+
+#div1 {
+	text-align: center;
+	border: 10px outset #AD7100;
+	border-radius: 20px;
+
+
+}
+
+#div2 {
+	border: 10px outset #AD7100;
+	border-radius: 20px;
+	text-align: center;
+	text-decoration: none;
+	
+	padding-left: 15px;
+	padding-right: 15px;
+}

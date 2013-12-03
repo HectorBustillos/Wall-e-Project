@@ -2,7 +2,7 @@ body{
 	background: #888C8C;
 	position: relative;
 	min-width: 1167px;
-	min-height: 680px;
+	min-height: 740px;
 }
 
 header div a {
@@ -64,6 +64,15 @@ footer {
 	position: absolute;
 	bottom: 0;
 	right: 5px;
+
+}
+
+h1 {
+	color: #AD7100;
+	font-family: arial;
+	position: absolute;
+	top:160px;
+	left: 240px;
 
 }
 

@@ -2,7 +2,7 @@ body{
 	background: #888C8C;
 	position: relative;
 	min-width: 1167px;
-	min-height: 1060px;
+	min-height: 2490px;
 }
 
 header div a {
@@ -29,13 +29,13 @@ hr {
 }
 
 strong {
-	color:red;
+	color:#DB9A00;
 }
 
 footer {
 	position: absolute;
-	bottom: 0;
 	right: 5px;
+	bottom:  2px;
 
 }
 
@@ -45,8 +45,9 @@ footer {
 	box-shadow: 5px 5px 5px #AD7100;
 	background: #333333;
 	width: 85%;
+	min-width: 100px;
 	padding: 10px;
-	margin-right: 40px; 
+	margin-bottom: 40px;
 	position: absolute;
 	top: 260px;
 	left: 100px;
